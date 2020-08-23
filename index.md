@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Felix's CV
 ---
-# Isaac Newton
+# Felix Lambert
 Web, software, and mobile developer
 
 ## Currently
 
-Developping EmptyMyFridge: the app for everyone who believes that accessing the perfect recipes based on your food item is difficult.
+Developping EmptyMyFridge: the app for everyone who believes that accessing the perfect recipes based on your food items is difficult.
 
 ### Specialized in
 
@@ -15,6 +15,43 @@ Node.js, react.js, react-native, firebase
 
 ## Jobs
 
+`2019_2020`
+__EMPTYMYFRIDGE__
+
+Development of the android and ios application in react-native and firebase.
+
+https://www.emptymyfridge.com
+
+`2018_2019`
+__BLADE (SHADOW)__
+
+Shadow offers an alternative to the obsolescence of computer components by taking them inside the computer and putting them in the cloud. We should then no longer need to change our device every 3/4 years. The use of the computer will turn more into a service where software will always be up to date with the latest components, than a personal asset.
+
+I took care of all the front part of this project in React.JS (including mobx), and a little bit on the server side, especially to set up a Redis cache system. I also took care of CI deployment. We used Cypress to set up our integration tests.
+
+`2017_2018`
+__RECAST.AI__
+
+Recast.ai is a start-up with a very promising development, and in great demand today, in the field of Artificial Intelligence. Located at Station F, it was acquired by SAP, and it provides customers with a chatbot service, in line with new innovations, notably machine learning, and NLP.
+
+I had the opportunity to develop a chatbot service with pure JS, ES6, with particular emphasis on unit and functional tests.
+
+Also, thanks to my fullstack profile, I'm also in great demand to improve the front, and implement new functionalities in React.JS
+
+`2017`
+__TEAMTO__
+
+TeamTO is one of Europe’s leading creative animation companies, focusing on original content and creative partnerships, bringing to life stories from all over the world.
+
+I took care of the front side of the back office in React and Redux. There was also the possibility of developing the site with native css and flexbox in particular.
+
+
+`2017`
+__VIZEAT FRANCE__
+
+Vizeat is a clever website that allows visitors to eat in locals' homes
+
+I took care of the client side in React, of the responsive design in css3, using tools like Immutable.js, Normalizr, as well as the implementation of a solid test coverage.
 
 `2016-2017`
 
@@ -46,78 +83,13 @@ __Waiter and chef in restaurants__
 
 I learnt hard work and the importance of being precise and satisfying clients
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2008`
+__Master degree of philosophy of science and technology in Paris 4 Sorbonne.__
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2020 -->
 
 
