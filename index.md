@@ -7,7 +7,7 @@ Web, software, and mobile developer
 
 ## Currently
 
-Developping EmptyMyFridge: the app for everyone who believes that accessing the perfect recipes based on your food items is difficult.
+Developping EmptyMyFridge: the app for everyone who believes that accessing the perfect recipes based on your food items is difficult. And starting to work for DisMoi (https://www.dismoi.io/)
 
 ### Specialized in
 
@@ -15,10 +15,19 @@ Node.js, react.js, react-native, firebase
 
 ## Jobs
 
-`2019_2020`
+`2020_NOW`
+__DISMOI__
+
+DisMoi is a navigator extension and a future mobile app that is to become a contextual information platform, allowing everyone to be informed according to their context (web page visited, mobile geo-location, scan of a product, etc.).
+
+Associate and developer. Will help with everything (if it's coding) and maybe focus on the mobile app.
+
+More info here: https://www.dismoi.io/
+
+`2019_NOW`
 __EMPTYMYFRIDGE__
 
-Development of the android and ios application in react-native and firebase.
+Founder of EmptyMyFridge. Developing of the android and ios application in react-native and firebase.
 
 https://www.emptymyfridge.com
 
@@ -84,6 +93,9 @@ __Waiter and chef in restaurants__
 I learnt hard work and the importance of being precise and satisfying clients
 
 ## Education
+
+`2015`
+__Expert in computer science degree in Epitech.__
 
 `2008`
 __Master degree of philosophy of science and technology in Paris 4 Sorbonne.__

@@ -1,0 +1,102 @@
+I"�<h1 id="felix-lambert">Felix Lambert</h1>
+<p>Web, software, and mobile developer</p>
+
+<h2 id="currently">Currently</h2>
+
+<p>Developping EmptyMyFridge: the app for everyone who believes that accessing the perfect recipes based on your food items is difficult. And starting to work for DisMoi (https://www.dismoi.io/)</p>
+
+<h3 id="specialized-in">Specialized in</h3>
+
+<p>Node.js, react.js, react-native, firebase</p>
+
+<h2 id="jobs">Jobs</h2>
+
+<p><code class="highlighter-rouge">2020_NOW</code>
+<strong>DISMOI</strong></p>
+
+<p>DisMoi is a navigator extension and a future mobile app that is to become a contextual information platform, allowing everyone to be informed according to their context (web page visited, mobile geo-location, scan of a product, etc.).</p>
+
+<p>Associate and developer. Will help with everything (if it’s coding) and maybe focus on the mobile app.</p>
+
+<p>More info here: https://www.dismoi.io/</p>
+
+<p><code class="highlighter-rouge">2019_NOW</code>
+<strong>EMPTYMYFRIDGE</strong></p>
+
+<p>Founder of EmptyMyFridge. Developing of the android and ios application in react-native and firebase.</p>
+
+<p>https://www.emptymyfridge.com</p>
+
+<p><code class="highlighter-rouge">2018_2019</code>
+<strong>BLADE (SHADOW)</strong></p>
+
+<p>Shadow offers an alternative to the obsolescence of computer components by taking them inside the computer and putting them in the cloud. We should then no longer need to change our device every 3/4 years. The use of the computer will turn more into a service where software will always be up to date with the latest components, than a personal asset.</p>
+
+<p>I took care of all the front part of this project in React.JS (including mobx), and a little bit on the server side, especially to set up a Redis cache system. I also took care of CI deployment. We used Cypress to set up our integration tests.</p>
+
+<p><code class="highlighter-rouge">2017_2018</code>
+<strong>RECAST.AI</strong></p>
+
+<p>Recast.ai is a start-up with a very promising development, and in great demand today, in the field of Artificial Intelligence. Located at Station F, it was acquired by SAP, and it provides customers with a chatbot service, in line with new innovations, notably machine learning, and NLP.</p>
+
+<p>I had the opportunity to develop a chatbot service with pure JS, ES6, with particular emphasis on unit and functional tests.</p>
+
+<p>Also, thanks to my fullstack profile, I’m also in great demand to improve the front, and implement new functionalities in React.JS</p>
+
+<p><code class="highlighter-rouge">2017</code>
+<strong>TEAMTO</strong></p>
+
+<p>TeamTO is one of Europe’s leading creative animation companies, focusing on original content and creative partnerships, bringing to life stories from all over the world.</p>
+
+<p>I took care of the front side of the back office in React and Redux. There was also the possibility of developing the site with native css and flexbox in particular.</p>
+
+<p><code class="highlighter-rouge">2017</code>
+<strong>VIZEAT FRANCE</strong></p>
+
+<p>Vizeat is a clever website that allows visitors to eat in locals’ homes</p>
+
+<p>I took care of the client side in React, of the responsive design in css3, using tools like Immutable.js, Normalizr, as well as the implementation of a solid test coverage.</p>
+
+<p><code class="highlighter-rouge">2016-2017</code></p>
+
+<p><strong>Citytaps</strong></p>
+
+<p>CityTaps’ vision is to help bring running water to every urban home, to boost the health, dignity and productivity of the urban poor in developing countries.</p>
+
+<p>I developed a cloud in NodeJS that provides an IoT service for connected water meters. This service is also based on IoT technology and best practices. Also, I had the opportunity to develop the client part of the cloud in Angular.JS.</p>
+
+<p><code class="highlighter-rouge">2015-2016</code></p>
+
+<p><strong>Cozy Cloud</strong></p>
+
+<p>Cozy gives users an intelligent, decentralized and secure storage space that allows them to retrieve information via its connectors (photos, bank statements, operator invoices, e-merchants, etc.).</p>
+
+<p>I offered a static application development service within CozyCloud.</p>
+
+<p><code class="highlighter-rouge">2014-2015</code></p>
+
+<p><strong>Recommerce</strong> (intern)</p>
+
+<p>Promote the circular economy through the take-back of smartphones and the resale of these same products in refurbished.</p>
+
+<p>I developed a back end service for customer support.</p>
+
+<p><code class="highlighter-rouge">2008-2010</code></p>
+
+<p><strong>Waiter and chef in restaurants</strong></p>
+
+<p>I learnt hard work and the importance of being precise and satisfying clients</p>
+
+<h2 id="education">Education</h2>
+
+<p><code class="highlighter-rouge">2015</code>
+<strong>Expert in computer science degree in Epitech.</strong></p>
+
+<p><code class="highlighter-rouge">2008</code>
+<strong>Master degree of philosophy of science and technology in Paris 4 Sorbonne.</strong></p>
+
+<!-- ### Footer
+
+Last updated: August 2020 -->
+
+:ET
